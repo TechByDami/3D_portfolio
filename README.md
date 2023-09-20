@@ -1,6 +1,6 @@
 ## Overview
 
-Build and Deploy a 3D Portfolio Website with Three.js and React.js
+### Build and Deploy a 3D Portfolio Website with Three.js and React.js
 
 ![screenshot](./src/assets/overview.png)
 
@@ -8,7 +8,7 @@ Build and Deploy a 3D Portfolio Website with Three.js and React.js
 
 ### The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
 
-Stack used:
+### Stack used:
 
 - ThreeJS, a robust 3D graphics library renowned for rendering and animating three-dimensional models.
 - React Three Fiber, a widely embraced library that seamlessly integrates ThreeJS into React for 3D graphic development.
